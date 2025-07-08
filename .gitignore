@@ -1,0 +1,36 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+.env/
+*.env
+
+# Logs
+*.log
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+*.tsv
+*.json
+*.db
+*.sqlite
+*.parquet
+*.zip
+
+# Airflow
+airflow.db
+airflow.cfg
+logs/
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
